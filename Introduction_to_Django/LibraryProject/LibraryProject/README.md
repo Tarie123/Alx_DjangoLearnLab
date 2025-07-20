@@ -1,1 +1,1 @@
-New Django Project
+This is a new Django project
